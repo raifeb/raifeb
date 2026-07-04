@@ -1,7 +1,7 @@
 Raihan Febriahdi
 
 Undergraduate Computer Science | Informatics Student
-Interested in ML Enngineer.
+Aspiring ML Engineer 
 
 ---
 
